@@ -39,5 +39,6 @@ terraform.rc
 
 ## Ignore plans
 foo
+plano
 
 # End of https://www.toptal.com/developers/gitignore/api/terraform
